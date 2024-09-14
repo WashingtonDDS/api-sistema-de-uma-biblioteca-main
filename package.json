@@ -1,5 +1,5 @@
 {
-  "name": "07-resolucao-exercicios-conexao-node-postgres-v3",
+  "name": "api-sistema-de-uma-biblioteca-main",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
